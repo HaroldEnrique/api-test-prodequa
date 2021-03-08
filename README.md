@@ -48,4 +48,4 @@ You should create your own DATABASE_URL on .env file
 
 ### DB Image
 
-![Mongodb View](https://github.com/HaroldEnrique/api-test-prodequa/blob/main/images/db_1.png "MongoDB view")
+![Mongodb View](https://github.com/HaroldEnrique/api-test-prodequa/blob/master/images/db_1.png "MongoDB view")
