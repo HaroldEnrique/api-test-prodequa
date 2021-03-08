@@ -44,7 +44,7 @@ Filter by inquiry's status
 
 
 Notes:
-You should create your own DATABASE_URL, this one is temporal.
+You should create your own DATABASE_URL on .env file
 
 ### DB Image
 
